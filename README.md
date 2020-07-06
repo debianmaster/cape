@@ -28,19 +28,19 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 
 ## Features
 
-1. Disaster Recovery
+1. <b>Disaster Recovery</b>
 - Single & scheduled backup & restore 
 - Multi-cluster & multi-cloud backup & restore 
  
-2. Data Migration & Mobility
+2. <b>Data Migration & Mobility</b>
 - Secure, encrypted application & data at rest and in transit
 - Support for on-prem, private cloud, major public clouds and edge
 
-3. Multi-cluster Application Deployment
+3. <b>Multi-cluster Application Deployment</b>
 - End-to-end deployment, from application definition to application release
 - Support for multiple types of application environments
 
-4. Drag & Drop CI/CD Workflow Manager (In development)
+4. <b>Drag & Drop CI/CD Workflow Manager (In development)</b>
 - Build, Test & Deploy across multiple cloud providers or on-premises systems
 - Standardize CI/CD tooling & processes across vendors & deployment environments
 
