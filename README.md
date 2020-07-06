@@ -1,87 +1,118 @@
 <p align="center" style="background-color:#23327c">
-  <img src="assets/logo.png" height="250px" width="400px"/>
+  <img src="https://github.com/biqmind/cape-docs/blob/master/docs/assets/CAPE-4CLogo-Hort.svg"/>
+</p>
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#download">Download</a> •
+  <a href="#platforms">Platforms</a> •
+  <a href="#license">License</a> •
+  <a href="#support">Support</a> 
+
 </p>
 
-# `CAPE` is a multi-cluster application and data management tool.  
+# Advanced Kubernetes Multi-cluster Application & Data Management
+
+CAPE provides advanced Kubernetes features for Disaster Recovery, Data Migration & Mobility, Multi-cluster Application Deployment and CI/CD within a single, intuitive interface.
+
+Deploy advanced K8s functionalities without the learning curve. This repo is for tracking community issues and feedback. Try CAPE today and let us know what you think!
+
 <hr/>
 
-## Project Status 
+<p align="center" style="background-color:#23327c">
+  <img src="https://github.com/biqmind/cape-docs/blob/master/docs/assets/ReadmeDashboard.png" />
+</p>
 
-CAPE is currently in beta phase with v1.0.0. Check out the
-[Release Notes](https://docs.cape.sh/blog/2020/06/01/Introducing-CAPE-v1.0.0) for more details 
 
+[![CAPE](assets/youtube-cape.png)](https://youtu.be/4KJt8NXTO8E "CAPE INTRO")
 
-## Documentation/User Guides
-
-All you need to get started with CAPE is available [here](https://docs.cape.sh/docs/).
 
 ## Features
 
-* Multi-cluster Data Management
-* Multi-cluster Application Management
+1. Disaster Recovery
+- Single & scheduled backup & restore 
+- Multi-cluster & multi-cloud backup & restore 
+ 
+2. Data Migration & Mobility
+- Secure, encrypted application & data at rest and in transit
+- Support for on-prem, private cloud, major public clouds and edge
+
+3. Multi-cluster Application Deployment
+- End-to-end deployment, from application definition to application release
+- Support for multiple types of application environments
+
+4. Drag & Drop CI/CD Workflow Manager (In development)
+- Build, Test & Deploy across multiple cloud providers or on-premises systems
+- Standardize CI/CD tooling & processes across vendors & deployment environments
 
 <hr /> 
 
-## Installing CAPE
+## Download
 
-### Downloading a binary from GitHub Releases 
+Let's walk the talk
 
-#### Start k3d local instance
+### Start k3d local instance
 Prerequisites: [docker](https://docs.docker.com/get-docker/), [k3d](https://github.com/rancher/k3d)
 ```sh
 k3d create -n dev -p 80:80 -p 443:443 --wait=0
 export KUBECONFIG="$(k3d get-kubeconfig --name='dev')"
 kubectl cluster-info
 ````
+Note: The Kubernetes cluster "dev" has been created locally
 
-#### Installing CAPE
-> Enter the following command:
+### Install CAPE
+> By running the following command, I have read and agree to CAPE [privacy policy](https://biqmind.com/privacy-policy/), [terms of service](https://biqmind.com/terms-of-service/) and [end user license agreement](https://biqmind.com/end-user-license-agreement/)
 ```
 kubectl apply -f https://cape.sh/install/simple.yaml
+
+kubectl set env deploy/web CAPE_ACCEPT_TOS=true -n cape
 ```
 
-#### Accessing CAPE UI
+### Access CAPE UI
 > Enter the following command:
 ```
 kubectl -n cape wait --for=condition=available --timeout=600s deployment/web
 #wait for completion of CAPE deployment
 open http://127.0.0.1.nip.io
 ```
+Please wait for CAPE deployment to complete and open a new tab with the following URL: http://127.0.0.1.nip.io
+
 <hr />
 
-## CAPE in Action
-
-[![CAPE](assets/youtube-cape.png)](https://youtu.be/4KJt8NXTO8E "CAPE INTRO")
-
+## License
+CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
 
 ## Kubernetes Versions Compatibility
 
-| CAPE Version | 1.18 | 1.17 | 1.16 | 1.15 | 1.14  | Supported providers|
-| --------------- | ---- | ---- | ---- | ---- | ----  | -----------------|
-| v1.0.0        | +    | +    | +    | +    | +        | AWS, DigitalOcean, GCE,  |
+CAPE Version V1.0.0
+- AWS
+- DigitalOcean
+- GCE
+- Azure
+- Alibaba Cloud
+- Huawei Cloud
+- Tencent Cloud
 
+## Platforms
+CAPE is also avaliable for the following deployment platforms:
+- [Ansible](https://github.com/cape-sh/cape-ansible)
+- [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
+- [Docker Hub](https://hub.docker.com/u/biqmind)
+- [OperaterHub]-> Coming soon
 
+## Support
+If you like our project,
+![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
+![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)
 
-## Getting Started
-Get started quickly using this [tutorial](https://docs.cape.sh/docs/simple-install)
+Documentation/User Guides:
+- Get started with CAPE [here](https://docs.cape.sh/docs/).
 
+We welcome contributions from the community:
+- Bug reports and feature requests through [Github issues](https://github.com/cape-sh/cape/issues/new)
 
-## Getting Involved
+Connect with us over on our mailing list or Slack:
+- [<img src="https://img.shields.io/badge/Slack-CAPE-brightgreen">](https://capesh.slack.com)
 
-We appreciate your feedback and active participation.
-
-If you want to get in touch with us to discuss improvements and new
-features, please [create a new issue on GitHub](https://github.com/cape-sh/cape/issues/new) or connect with us over on our
-mailing list or Slack:
-
-* [`#general` Slack channel](https://capesh.slack.com)
-
-
-
-
-[1]: https://github.com/cape-sh/cape/issues/new
-[2]: https://github.com/cape-sh/cape#features
-[3]: https://groups.google.com/forum/#!forum/cape-sh
-[4]: http://capesh.slack.io/
-[5]: https://docs.cape.sh/blog/2020/06/01/Introducing-CAPE-v1.0.0
+Our Youtube channel:
+- [<img src="https://img.shields.io/badge/Youtube-Biqmind-blue">](https://www.youtube.com/channel/UCSXtrXokSgbZuSz7qgu3VHw)
 
