@@ -6,6 +6,7 @@
   <a href="#download">Download</a> •
   <a href="#platforms">Platforms</a> •
   <a href="#license">License</a> •
+  <a href="#docs/videos">Docs/Videos</a> •
   <a href="#support">Support</a> 
 
 </p>
@@ -46,6 +47,20 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 
 <hr /> 
 
+## License
+CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
+
+## Kubernetes Versions Compatibility
+
+CAPE Version V1.0.0
+- AWS
+- DigitalOcean
+- GCE
+- Azure
+- Alibaba Cloud
+- Huawei Cloud
+- Tencent Cloud
+
 ## Download
 
 Let's walk the talk
@@ -78,19 +93,7 @@ Please wait for CAPE deployment to complete and open a new tab with the followin
 
 <hr />
 
-## License
-CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
-
-## Kubernetes Versions Compatibility
-
-CAPE Version V1.0.0
-- AWS
-- DigitalOcean
-- GCE
-- Azure
-- Alibaba Cloud
-- Huawei Cloud
-- Tencent Cloud
+After accessing the CAPE UI, we recommend you to go through our videos for a walkthrough of the various use cases. 
 
 ## Platforms
 CAPE is also avaliable for the following deployment platforms:
@@ -99,14 +102,32 @@ CAPE is also avaliable for the following deployment platforms:
 - [Docker Hub](https://hub.docker.com/u/biqmind)
 - [OperaterHub]-> Coming soon
 
+## Docs/Videos
+
+### Videos
+
+#### CAPE UI Features Walkthrough
+- [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
+
+#### Clusters Walkthrough
+- [Create Organization](https://www.youtube.com/watch?v=rjfZ_Av-Mxg)
+- [Connect Biqmind CAPE to a K8s cluster using Kubectl](https://www.youtube.com/watch?v=CSW4IrjyGro)
+- [Connect Biqmind CAPE to a K8s cluster using Kubeconfig](https://www.youtube.com/watch?v=pvfDTnu-HLI)
+- [Install a disaster recovery component](https://www.youtube.com/watch?v=74t6jKB9G3E)
+
+#### Backups Walkthrough
+- [Backup K8s on-demand](https://www.youtube.com/watch?v=MOPtRTeG8sw)
+- [Schedule a K8s Backup](https://www.youtube.com/watch?v=CkIVZdmWXiQ)
+- [Share backup with other clusters](https://www.youtube.com/watch?v=tnyNPynPLJI)
+
+#### Restores Walkthrough
+- [Restoring a Kubernetes cluster](https://www.youtube.com/watch?v=Xf0TkzudUF0)
+- [Restoring a Kubernetes cluster to another cluster](https://www.youtube.com/watch?v=dhBnUgfTsh4)
+
+### Documentation
+- Get started with CAPE [Docs](https://docs.cape.sh/docs/).
+
 ## Support
-If you like our project,
-![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
-![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)
-
-Documentation/User Guides:
-- Get started with CAPE [here](https://docs.cape.sh/docs/).
-
 We welcome contributions from the community:
 - Bug reports and feature requests through [Github issues](https://github.com/cape-sh/cape/issues/new)
 
@@ -116,3 +137,6 @@ Connect with us over on our mailing list or Slack:
 Our Youtube channel:
 - [<img src="https://img.shields.io/badge/Youtube-Biqmind-blue">](https://www.youtube.com/channel/UCSXtrXokSgbZuSz7qgu3VHw)
 
+If you like our project,
+![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
+![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)
