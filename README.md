@@ -47,9 +47,7 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 
 <hr /> 
 
-
-
-## Getting Started
+## Install
 
 ### Start k3d local instance
 Prerequisites: [docker](https://docs.docker.com/get-docker/), [k3d](https://github.com/rancher/k3d)
@@ -81,18 +79,36 @@ Please wait for CAPE deployment to complete and open a new tab with the followin
 
 After accessing the CAPE UI, we recommend you to go through our videos for a walkthrough of the various use cases. 
 
-## Platforms
+
+## Learn CAPE - Katacoda, Recent Webinar, CAPE Tutorials
+
+
+- Recent Webinar
+- CAPE Tutorials
+- Katacoda
+
+## Use CAPE on Your Favorite Platforms
 CAPE is also avaliable for the following deployment platforms:
 - [Ansible](https://github.com/cape-sh/cape-ansible)
 - [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
 - [Docker Hub](https://hub.docker.com/u/biqmind)
 - [OperaterHub]-> Coming soon
 
+## Environments Supported
+
+CAPE Version V1.0.0
+- AWS
+- DigitalOcean
+- GCE
+- Azure
+- Alibaba Cloud
+- Huawei Cloud
+- Tencent Cloud
+
+## License
+CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
+
 ## Docs/Videos
-
-### Videos
-
-After setting up CAPE and accessing the UI, please go through the following videos on the different CAPE use cases. 
 
 #### CAPE UI Features Walkthrough
 - [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
@@ -114,20 +130,6 @@ After setting up CAPE and accessing the UI, please go through the following vide
 
 ### Documentation
 - Get started with CAPE [Docs](https://docs.cape.sh/docs/).
-
-## License
-CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
-
-## Kubernetes Platforms Compatibility
-
-CAPE Version V1.0.0
-- AWS
-- DigitalOcean
-- GCE
-- Azure
-- Alibaba Cloud
-- Huawei Cloud
-- Tencent Cloud
 
 ## Support
 We welcome contributions from the community:
