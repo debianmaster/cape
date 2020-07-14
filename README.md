@@ -6,7 +6,7 @@
   <a href="#install">Install</a> •
   <a href="#Learn CAPE">Learn</a> •
   <a href="#license">License</a> •
-  <a href="#docs/videos">Docs/Videos</a> •
+  <a href="#docsvideos">Docs/Videos</a> •
   <a href="#support">Support</a> 
 
 </p>
@@ -108,7 +108,7 @@ For CAPE Version V1.0.0
 ## License
 CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
 
-## Docs/Videos
+## DocsVideos
 
 #### CAPE UI Features Walkthrough
 - [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
