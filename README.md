@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#install">Download</a> •
-  <a href="#Learn CAPE - Katacoda, Recent Webinar, CAPE Tutorials">Learn</a> •
+  <a href="#install">Install</a> •
+  <a href="#Learn CAPE">Learn</a> •
   <a href="#license">License</a> •
   <a href="#docs/videos">Docs/Videos</a> •
   <a href="#support">Support</a> 
@@ -80,7 +80,7 @@ Please wait for CAPE deployment to complete and open a new tab with the followin
 After accessing the CAPE UI, we recommend you to go through our videos for a walkthrough of the various use cases. 
 
 
-## Learn CAPE - Katacoda, Recent Webinar, CAPE Tutorials
+## Learn CAPE
 
 
 - [Recent Webinar](https://www.youtube.com/watch?v=JHP9zgv75ls)
