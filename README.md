@@ -80,8 +80,7 @@ Please wait for CAPE deployment to complete and open a new tab with the followin
 After accessing the CAPE UI, we recommend you to go through our videos for a walkthrough of the various use cases. 
 
 
-## Learn CAPE
-
+## Learn
 
 - [Recent Webinar](https://www.youtube.com/watch?v=JHP9zgv75ls)
 - [CAPE Tutorials](https://www.youtube.com/watch?v=S551qxe9vCg&list=PLByzHLEsOQEB01EIybmgfcrBMO6WNFYZL)
@@ -108,7 +107,7 @@ For CAPE Version V1.0.0
 ## License
 CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
 
-## DocsVideos
+## Support
 
 #### CAPE UI Features Walkthrough
 - [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
@@ -131,10 +130,11 @@ CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes,
 ### Documentation
 - Get started with CAPE [Docs](https://docs.cape.sh/docs/).
 
-## Support
+### Contribute
 We welcome contributions from the community:
 - Bug reports and feature requests through [Github issues](https://github.com/cape-sh/cape/issues/new)
 
+### Contact
 Connect with us over on our mailing list or Slack:
 - [<img src="https://img.shields.io/badge/Slack-CAPE-brightgreen">](https://capesh.slack.com)
 
