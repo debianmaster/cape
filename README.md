@@ -6,8 +6,7 @@
   <a href="#install">Install</a> •
   <a href="#Learn CAPE">Learn</a> •
   <a href="#license">License</a> •
-  <a href="#docsvideos">Docs/Videos</a> •
-  <a href="#support">Support</a> 
+  <a href="#support">Support</a> •
 
 </p>
 
@@ -22,7 +21,6 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 <p align="center" style="background-color:#23327c">
   <img src="https://biqmind.com/wp-content/uploads/2020/07/CAPEReadmeDashboard.png" />
 </p>
-
 
 [![CAPE](assets/youtube-cape.png)](https://youtu.be/4KJt8NXTO8E "CAPE INTRO")
 
@@ -79,7 +77,6 @@ Please wait for CAPE deployment to complete and open a new tab with the followin
 
 After accessing the CAPE UI, we recommend you to go through our videos for a walkthrough of the various use cases. 
 
-
 ## Learn
 
 - [Recent Webinar](https://www.youtube.com/watch?v=JHP9zgv75ls)
@@ -108,6 +105,8 @@ For CAPE Version V1.0.0
 CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
 
 ## Support
+
+### Videos
 
 #### CAPE UI Features Walkthrough
 - [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
