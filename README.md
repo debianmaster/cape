@@ -47,19 +47,7 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 
 <hr /> 
 
-## License
-CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
 
-## Kubernetes Versions Compatibility
-
-CAPE Version V1.0.0
-- AWS
-- DigitalOcean
-- GCE
-- Azure
-- Alibaba Cloud
-- Huawei Cloud
-- Tencent Cloud
 
 ## Getting Started
 
@@ -126,6 +114,20 @@ After setting up CAPE and accessing the UI, please go through the following vide
 
 ### Documentation
 - Get started with CAPE [Docs](https://docs.cape.sh/docs/).
+
+## License
+CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
+
+## Kubernetes Platforms Compatibility
+
+CAPE Version V1.0.0
+- AWS
+- DigitalOcean
+- GCE
+- Azure
+- Alibaba Cloud
+- Huawei Cloud
+- Tencent Cloud
 
 ## Support
 We welcome contributions from the community:
