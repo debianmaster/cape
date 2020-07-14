@@ -1,5 +1,5 @@
 <p align="center" style="background-color:#23327c">
-  <img src="https://github.com/biqmind/cape-docs/blob/master/docs/assets/CAPE-4CLogo-Hort.svg"/>
+  <img src="https://biqmind.com/wp-content/uploads/2020/07/CAPE-4CLogo-Hor.png"/>
 </p>
 <p align="center">
   <a href="#features">Features</a> •
@@ -20,7 +20,7 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 <hr/>
 
 <p align="center" style="background-color:#23327c">
-  <img src="https://github.com/biqmind/cape-docs/blob/master/docs/assets/ReadmeDashboard.png" />
+  <img src="https://biqmind.com/wp-content/uploads/2020/07/CAPEReadmeDashboard.png" />
 </p>
 
 
