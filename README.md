@@ -61,9 +61,7 @@ CAPE Version V1.0.0
 - Huawei Cloud
 - Tencent Cloud
 
-## Download
-
-Let's walk the talk
+## Getting Started
 
 ### Start k3d local instance
 Prerequisites: [docker](https://docs.docker.com/get-docker/), [k3d](https://github.com/rancher/k3d)
@@ -105,6 +103,8 @@ CAPE is also avaliable for the following deployment platforms:
 ## Docs/Videos
 
 ### Videos
+
+After setting up CAPE and accessing the UI, please go through the following videos on the different CAPE use cases. 
 
 #### CAPE UI Features Walkthrough
 - [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
