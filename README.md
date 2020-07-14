@@ -142,4 +142,4 @@ Our Youtube channel:
 
 If you like our project,
 ![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
-![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)
+![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social) 
