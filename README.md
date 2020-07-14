@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#download">Download</a> •
-  <a href="#platforms">Platforms</a> •
+  <a href="#install">Download</a> •
+  <a href="#Learn CAPE - Katacoda, Recent Webinar, CAPE Tutorials">Learn</a> •
   <a href="#license">License</a> •
   <a href="#docs/videos">Docs/Videos</a> •
   <a href="#support">Support</a> 
@@ -83,9 +83,9 @@ After accessing the CAPE UI, we recommend you to go through our videos for a wal
 ## Learn CAPE - Katacoda, Recent Webinar, CAPE Tutorials
 
 
-- Recent Webinar
-- CAPE Tutorials
-- Katacoda
+- [Recent Webinar](https://www.youtube.com/watch?v=JHP9zgv75ls)
+- [CAPE Tutorials](https://www.youtube.com/watch?v=S551qxe9vCg&list=PLByzHLEsOQEB01EIybmgfcrBMO6WNFYZL)
+- [Katacoda](https://katacoda.com/cape/courses/trycape/) 
 
 ## Use CAPE on Your Favorite Platforms
 CAPE is also avaliable for the following deployment platforms:
@@ -96,7 +96,7 @@ CAPE is also avaliable for the following deployment platforms:
 
 ## Environments Supported
 
-CAPE Version V1.0.0
+For CAPE Version V1.0.0
 - AWS
 - DigitalOcean
 - GCE
