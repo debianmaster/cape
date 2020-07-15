@@ -97,7 +97,7 @@ CAPE is also avaliable for the following deployment platforms:
 - [Ansible](https://github.com/cape-sh/cape-ansible)
 - [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
 - [Docker Hub](https://hub.docker.com/u/biqmind)
-- [OperaterHub]-> Coming soon
+- [OperaterHub]-> Coming soon 
 
 ## Support
 If you like our project,
