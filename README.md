@@ -103,7 +103,7 @@ For CAPE Version V1.0.0
 - Tencent Cloud
 
 ## License
-CAPE Community Edition will always be FREE for to 10 nodes. Get in touch with us at connect@biqmind.com if you are looking for a paid subscription. 
+CAPE is available as an always FREE Community Edition or as a Subscription with dedicated support.
 
 
 ## Support
