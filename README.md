@@ -105,6 +105,7 @@ For CAPE Version V1.0.0
 ## License
 CAPE Community Edition will always be FREE for to 10 nodes. Get in touch with us at connect@biqmind.com if you are looking for a paid subscription. 
 
+
 ## Support
 
 ### Videos
@@ -144,3 +145,4 @@ Our Youtube channel:
 If you like our project,
 ![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
 ![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)  
+
