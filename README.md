@@ -1,10 +1,10 @@
 <p align="center" style="background-color:#23327c">
-  <img src="https://github.com/biqmind/cape-docs/blob/master/docs/assets/CAPE-4CLogo-Hort.svg"/>
+  <img src="https://biqmind.com/wp-content/uploads/2020/07/CAPE-4CLogo-Hor.png"/>
 </p>
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#download">Download</a> •
-  <a href="#platforms">Platforms</a> •
+  <a href="#install">Install</a> •
+  <a href="#Learn">Learn</a> •
   <a href="#license">License</a> •
   <a href="#support">Support</a> 
 
@@ -19,9 +19,8 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 <hr/>
 
 <p align="center" style="background-color:#23327c">
-  <img src="https://github.com/biqmind/cape-docs/blob/master/docs/assets/ReadmeDashboard.png" />
+  <img src="https://biqmind.com/wp-content/uploads/2020/07/CAPEReadmeDashboard.png" />
 </p>
-
 
 [![CAPE](assets/youtube-cape.png)](https://youtu.be/4KJt8NXTO8E "CAPE INTRO")
 
@@ -46,9 +45,7 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 
 <hr /> 
 
-## Download
-
-Let's walk the talk
+## Install
 
 ### Start k3d local instance
 Prerequisites: [docker](https://docs.docker.com/get-docker/), [k3d](https://github.com/rancher/k3d)
@@ -78,12 +75,25 @@ Please wait for CAPE deployment to complete and open a new tab with the followin
 
 <hr />
 
-## License
-CAPE will always be FREE for use up to 10 nodes. If you need more than 10 nodes, get in touch at connect@biqmind.com for pricing details. 
+After accessing the CAPE UI, we recommend you to go through our videos for a walkthrough of the various use cases. 
 
-## Kubernetes Versions Compatibility
+## Learn
 
-CAPE Version V1.0.0
+- [Recent Webinar](https://www.youtube.com/watch?v=JHP9zgv75ls)
+- [CAPE Tutorials](https://www.youtube.com/watch?v=S551qxe9vCg&list=PLByzHLEsOQEB01EIybmgfcrBMO6WNFYZL)
+- [Katacoda](https://katacoda.com/cape/courses/trycape/) 
+
+## Use CAPE on Your Favorite Platforms
+CAPE is also avaliable for the following deployment platforms:
+- [Ansible](https://galaxy.ansible.com/biqmind_cloudnative/cape_ansible)
+- [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
+- [Docker Hub](https://hub.docker.com/u/capesh)
+- [Github](https://github.com/cape-sh/cape-docker)
+- [OperaterHub]-> Coming soon
+
+## Environments Supported
+
+For CAPE Version V1.0.0
 - AWS
 - DigitalOcean
 - GCE
@@ -92,27 +102,46 @@ CAPE Version V1.0.0
 - Huawei Cloud
 - Tencent Cloud
 
-## Platforms
-CAPE is also avaliable for the following deployment platforms:
-- [Ansible](https://github.com/cape-sh/cape-ansible)
-- [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
-- [Docker Hub](https://hub.docker.com/u/biqmind)
-- [OperaterHub]-> Coming soon 
+## License
+CAPE Community Edition will always be FREE for up to 10 nodes. Paid subscription options are available through the CAPE UI. 
 
 ## Support
-If you like our project,
-![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
-![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)
 
-Documentation/User Guides:
-- Get started with CAPE [here](https://docs.cape.sh/docs/).
+### Videos
 
+#### CAPE UI Features Walkthrough
+- [Key Menus](https://www.youtube.com/watch?v=S551qxe9vCg)
+
+#### Clusters Walkthrough
+- [Create Organization](https://www.youtube.com/watch?v=rjfZ_Av-Mxg)
+- [Connect Biqmind CAPE to a K8s cluster using Kubectl](https://www.youtube.com/watch?v=CSW4IrjyGro)
+- [Connect Biqmind CAPE to a K8s cluster using Kubeconfig](https://www.youtube.com/watch?v=pvfDTnu-HLI)
+- [Install a disaster recovery component](https://www.youtube.com/watch?v=74t6jKB9G3E)
+
+#### Backups Walkthrough
+- [Backup K8s on-demand](https://www.youtube.com/watch?v=MOPtRTeG8sw)
+- [Schedule a K8s Backup](https://www.youtube.com/watch?v=CkIVZdmWXiQ)
+- [Share backup with other clusters](https://www.youtube.com/watch?v=tnyNPynPLJI)
+
+#### Restores Walkthrough
+- [Restoring a Kubernetes cluster](https://www.youtube.com/watch?v=Xf0TkzudUF0)
+- [Restoring a Kubernetes cluster to another cluster](https://www.youtube.com/watch?v=dhBnUgfTsh4)
+
+### Documentation
+- Get started with CAPE [Docs](https://docs.cape.sh/docs/).
+
+### Contribute
 We welcome contributions from the community:
 - Bug reports and feature requests through [Github issues](https://github.com/cape-sh/cape/issues/new)
 
+### Contact
 Connect with us over on our mailing list or Slack:
 - [<img src="https://img.shields.io/badge/Slack-CAPE-brightgreen">](https://capesh.slack.com)
 
 Our Youtube channel:
 - [<img src="https://img.shields.io/badge/Youtube-Biqmind-blue">](https://www.youtube.com/channel/UCSXtrXokSgbZuSz7qgu3VHw)
+
+If you like our project,
+![Twitter Follow](https://img.shields.io/twitter/follow/CapeSuperhero?style=social) and 
+![GitHub stars](https://img.shields.io/github/stars/cape-sh/cape?style=social)  
 
