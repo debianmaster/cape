@@ -86,9 +86,9 @@ After accessing the CAPE UI, we recommend you to go through our videos for a wal
 ## Use CAPE on Your Favorite Platforms
 CAPE is also avaliable for the following deployment platforms:
 - [Ansible](https://galaxy.ansible.com/biqmind_cloudnative/cape_ansible)
-- [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
 - [Docker Hub](https://hub.docker.com/u/capesh)
 - [Github](https://github.com/cape-sh/cape-docker)
+- [Helm Charts](https://github.com/biqmind/cape-saas-operator/tree/master/helm/cape)
 - [OperaterHub]-> Coming soon
 
 ## Environments Supported
