@@ -94,11 +94,11 @@ CAPE is also avaliable for the following deployment platforms:
 ## Environments Supported
 
 For CAPE Version V1.0.0
+- Alibaba Cloud
 - AWS
+- Azure
 - DigitalOcean
 - GCE
-- Azure
-- Alibaba Cloud
 - Huawei Cloud
 - Tencent Cloud
 
