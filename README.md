@@ -103,7 +103,7 @@ For CAPE Version V1.0.0
 - Tencent Cloud
 
 ## License
-CAPE Community Edition will always be FREE for up to 10 nodes. Paid subscription options are available through the CAPE UI. 
+CAPE is available as an always FREE Community Edition or as a Subscription with dedicated support. 
 
 ## Support
 
