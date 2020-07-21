@@ -1,0 +1,15 @@
+[submodule "cape-docker"]
+	path = cape-docker
+	url = https://github.com/cape-sh/cape-docker
+[submodule "cape-aliyun"]
+	path = cape-aliyun
+	url = https://github.com/cape-sh/cape-aliyun
+[submodule "cape-azure"]
+	path = cape-azure
+	url = https://github.com/cape-sh/cape-azure
+[submodule "cape-ansible"]
+	path = cape-ansible
+	url = https://github.com/cape-sh/cape-ansible
+[submodule "katacoda-scenarios"]
+	path = katacoda-scenarios
+	url = https://github.com/cape-sh/katacoda-scenarios
