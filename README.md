@@ -19,7 +19,7 @@ Deploy advanced K8s functionalities without the learning curve. This repo is for
 <hr/>
 
 <p align="center" style="background-color:#23327c">
-  <img src="https://biqmind.com/wp-content/uploads/2020/07/CAPEReadmeDashboard.png" />
+  <img src="https://biqmind.com/wp-content/uploads/2020/07/cape-dashboard-clusters.png" />
 </p>
 
 [![CAPE](assets/youtube-cape.png)](https://youtu.be/4KJt8NXTO8E "CAPE INTRO")
