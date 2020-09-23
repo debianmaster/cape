@@ -69,7 +69,7 @@ kubectl set env deploy/web CAPE_ACCEPT_TOS=true -n cape
 ```
 kubectl -n cape wait --for=condition=available --timeout=600s deployment/web
 #wait for completion of CAPE deployment
-open http://127.0.0.1.nip.io
+open https://127.0.0.1.nip.io
 ```
 Please wait for CAPE deployment to complete and open a new tab with the following URL: http://127.0.0.1.nip.io
 
